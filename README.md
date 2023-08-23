@@ -2,7 +2,11 @@
 
 ## Demo
 
+Desktop View 
+
 ![image](https://github.com/anmolkumarfromspn/Road-Accident-Analysis---PowerBI/assets/128449996/a1900572-7d2c-490e-a8b3-af6df8328c43)
+
+Mobile App View
 
 ![image](https://github.com/anmolkumarfromspn/Road-Accident-Analysis---PowerBI/assets/128449996/4d47cb86-008a-4618-b731-7e398d2a02a6)
 
