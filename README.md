@@ -6,6 +6,10 @@ The primary objective of the UK Road Accident Analysis Power BI dashboard projec
 
 ## Data Description
 
+Dataset link - https://docs.google.com/spreadsheets/d/1po_7QivCqGceixWVXCoX_ftzf8scG-sl/edit?usp=sharing&ouid=112944341748915051793&rtpof=true&sd=true
+
+This UK Road Accident Dataset has multiple features about casualties happened in UK country which can be useful to perform an in-depth analysis which can be useful in preventing the road-accidents or know the root causes of an accident.
+
 ![image](https://github.com/anmolkumarfromspn/Road-Accident-Analysis---PowerBI/assets/128449996/4c7317b4-a7f6-483f-a0f9-326e030f1bb0)
 
 ![image](https://github.com/anmolkumarfromspn/Road-Accident-Analysis---PowerBI/assets/128449996/f42a08dc-bba9-4f92-86cc-ffb2457894c4)
