@@ -14,7 +14,7 @@ This UK Road Accident Dataset has multiple features about casualties happened in
 
 Columns: Junction_Detail, Accident_Severity, Latitude, Light_Conditions, Local_Authority_(District), Carriageway_Hazards, Longitude, Number_of_Casualties, Number_of_Vehicles, Police_Force, Road_Surface_Conditions, Road_Type, Speed_limit, Time, Urban_or_Rural_Area, Weather_Conditions, Vehicle_Type
 
-## Dashboard
+## Dashboard Overview
 
 Desktop View 
 
@@ -28,9 +28,33 @@ Mobile App View
 
 ![image](https://github.com/anmolkumarfromspn/Road-Accident-Analysis---PowerBI/assets/128449996/a3a11ab9-6a9a-4770-8c2e-0ff1f4a539b7)
 
+### PowerBI Functionalities Used:
+
+✓ Connect to Raw Data/Flat File
+✓ Data Cleaning in Power Query
+✓ Data Processing
+✓ Time Intelligence Function/ Calendar Date Table in Power BI
+✓ Data Modelling (Relationship between multiple tables)
+✓ YTD and YoY Growth Calculations using DAX
+✓ KPI and Advanced KPI Generations
+✓ Creating custom columns and measures in the reports
+✓ Importing Images
+✓ Creating different charts and generating insights
+
 ## Future Scope
 
-The future scope of the UK Road Accident Analysis Power BI dashboard project holds significant potential for expansion and enhancement. Firstly, the project can incorporate real-time data feeds to provide up-to-the-minute accident information, enabling immediate response and interventions. Additionally, predictive analytics and machine learning algorithms can be integrated to forecast accident-prone areas and suggest proactive safety measures. Furthermore, the dashboard can be extended to include socio-economic factors and demographic data to gain deeper insights into the root causes of accidents, facilitating more targeted policy interventions. Collaboration with other European countries for comparative analysis and the development of a cross-border accident analysis system is another exciting possibility. Overall, the project's future scope involves continuous refinement, automation, and broadening its utility to make UK roads safer and more resilient.
+The future scope of the UK Road Accident Analysis Power BI dashboard project holds significant potential for expansion and enhancement. Firstly, the project can incorporate real-time data feeds to provide up-to-the-minute accident information, enabling immediate response and interventions. Additionally, predictive analytics and machine learning algorithms can be integrated to forecast accident-prone areas and suggest proactive safety measures. Furthermore, the dashboard can be extended to include socio-economic factors and demographic data to gain deeper insights into the root causes of accidents, facilitating more targeted policy interventions. Collaboration with other European countries for comparative analysis and the development of a cross-border accident analysis system is another exciting possibility. Overall, the project's future scope involves continuous refinement, automation, and broadening its utility to make UK roads safer and more resilient. 
+Some most common areas where this project can be helpful are:-
+
+1. Ministry of Transport
+2. Road transport Department
+3. Police Force
+4. Emergency Service Department
+5. Road Safety Corps
+6. Transport Operators
+7. Traffic Management Agencies
+8. Public
+9. Media
 
 ## Challenges
 
