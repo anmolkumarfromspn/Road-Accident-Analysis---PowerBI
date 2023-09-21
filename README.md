@@ -108,9 +108,8 @@ In conclusion, the UK Road Accident Analysis Power BI dashboard project has been
 -----------------------------------------------------------------------------------------------------
 
 *Contact Mail: aktwenty5@gmail.com*
-*Linkedin: https://bit.ly/45XlMKn*
 
-![image](https://github.com/anmolkumarfromspn/Christmas-Sales-Analysis/assets/128449996/58a5eea1-07ac-459c-bd55-e5748181530b)
+*Linkedin: https://bit.ly/45XlMKn*
 
 
 
