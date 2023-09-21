@@ -13,6 +13,7 @@ This UK Road Accident Dataset has multiple features about casualties happened in
 ![image](https://github.com/anmolkumarfromspn/Road-Accident-Analysis---PowerBI/assets/128449996/f42a08dc-bba9-4f92-86cc-ffb2457894c4)
 
 Columns: 
+
 Junction_Detail
 Accident_Severity
 Latitude
@@ -30,6 +31,7 @@ Time
 Urban_or_Rural_Area
 Weather_Conditions
 Vehicle_Type
+![image](https://github.com/anmolkumarfromspn/Road-Accident-Analysis---PowerBI/assets/128449996/9b68fd01-f51d-4757-840e-9a8df2d064f2)
 
 ## Dashboard Overview
 
