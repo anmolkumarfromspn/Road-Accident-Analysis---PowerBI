@@ -47,8 +47,9 @@ Creating a calender table: -
 2. Null Hypothesis Testing Results:
    
 ![image](https://github.com/anmolkumarfromspn/Road-Accident-Analysis---PowerBI/assets/128449996/8e6e3899-62a2-4b24-aa7f-1bf6da9a74bc)
-4. Age groups 11-15 years, 26-35 years and 36-45 years have the similar number of accident records and the major day of accidents for these age groups is Saturday.
-5. Warrington(WA) and Guildford(GU) have more accidents on Tuesdays and the most common age group of people causing accidents is 46 to 55 years.
+
+3. Age groups 11-15 years, 26-35 years and 36-45 years have the similar number of accident records and the major day of accidents for these age groups is Saturday.
+4. Warrington(WA) and Guildford(GU) have more accidents on Tuesdays and the most common age group of people causing accidents is 46 to 55 years.
 
 ## Tools used
 
