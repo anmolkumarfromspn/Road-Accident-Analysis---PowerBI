@@ -12,7 +12,24 @@ This UK Road Accident Dataset has multiple features about casualties happened in
 
 ![image](https://github.com/anmolkumarfromspn/Road-Accident-Analysis---PowerBI/assets/128449996/f42a08dc-bba9-4f92-86cc-ffb2457894c4)
 
-Columns: Junction_Detail, Accident_Severity, Latitude, Light_Conditions, Local_Authority_(District), Carriageway_Hazards, Longitude, Number_of_Casualties, Number_of_Vehicles, Police_Force, Road_Surface_Conditions, Road_Type, Speed_limit, Time, Urban_or_Rural_Area, Weather_Conditions, Vehicle_Type
+Columns: 
+Junction_Detail
+Accident_Severity
+Latitude
+Light_Conditions
+Local_Authority_(District)
+Carriageway_Hazards
+Longitude,
+Number_of_Casualties
+Number_of_Vehicles
+Police_Force
+Road_Surface_Conditions
+Road_Type
+Speed_limit
+Time
+Urban_or_Rural_Area
+Weather_Conditions
+Vehicle_Type
 
 ## Dashboard Overview
 
