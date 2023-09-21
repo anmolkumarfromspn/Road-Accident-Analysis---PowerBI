@@ -20,7 +20,7 @@ Desktop View
 
 ![image](https://github.com/anmolkumarfromspn/Road-Accident-Analysis---PowerBI/assets/128449996/a1900572-7d2c-490e-a8b3-af6df8328c43)
 
-Mobile App View
+## Mobile App Dashboard OverView
 
 ![image](https://github.com/anmolkumarfromspn/Road-Accident-Analysis---PowerBI/assets/128449996/4d47cb86-008a-4618-b731-7e398d2a02a6)
 
@@ -31,14 +31,23 @@ Mobile App View
 ### PowerBI Functionalities Used:
 
 ✓ Connect to Raw Data/Flat File
+
 ✓ Data Cleaning in Power Query
+
 ✓ Data Processing
+
 ✓ Time Intelligence Function/ Calendar Date Table in Power BI
+
 ✓ Data Modelling (Relationship between multiple tables)
+
 ✓ YTD and YoY Growth Calculations using DAX
+
 ✓ KPI and Advanced KPI Generations
+
 ✓ Creating custom columns and measures in the reports
+
 ✓ Importing Images
+
 ✓ Creating different charts and generating insights
 
 ## Future Scope
