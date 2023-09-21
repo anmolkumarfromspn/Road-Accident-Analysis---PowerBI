@@ -1,5 +1,9 @@
 # Road-Accident-Analysis---PowerBI
 
+## Introduction
+
+Embark on a journey through our Power BI project, where we delve into the intricacies of road safety in the United Kingdom. In this analysis, we harness the power of data to uncover valuable insights into the dynamics of road accidents across the UK. This project takes us on a comprehensive exploration, revealing patterns, trends, and contributing factors that impact road safety. By visualizing and analyzing this information, this PowerBI project aim to provide a deeper understanding of road accidents, empowering stakeholders to make informed decisions and implement measures to enhance safety on our roads.
+
 ## Project Objective
 
 The primary objective of the UK Road Accident Analysis Power BI dashboard project is to provide stakeholders, including government agencies, law enforcement, and road safety advocates, with a comprehensive and visually insightful tool for understanding and addressing road safety concerns in the United Kingdom. This project aims to analyze historical road accident data, identifying key trends, hotspots, and contributing factors to accidents, such as weather conditions, road types, and vehicle types involved. By doing so, the dashboard will assist in making data-driven decisions to improve road safety measures, reduce accident rates, and ultimately save lives on UK roads.
