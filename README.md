@@ -6,15 +6,30 @@ The primary objective of the UK Road Accident Analysis Power BI dashboard projec
 
 ## Data Description
 
-This UK Road Accident Dataset has multiple features about casualties happened in UK country which can be useful to perform an in-depth analysis which can be useful in preventing the road-accidents or know the root causes of an accident.
+This UK Road Accident Dataset has multiple features about casualties happened in UK country which can be useful to perform an in-depth analysis. This analysis can be useful in preventing the road-accidents or know the root causes of an accident.
+The dataset is taken from Kaggle and it contains the details of every recorded accident in the UK from 2005 till 2015. The full dataset is divided into three major categories i.e. accident information, casualty information, and vehicle information.
 
 ![image](https://github.com/anmolkumarfromspn/Road-Accident-Analysis---PowerBI/assets/128449996/4c7317b4-a7f6-483f-a0f9-326e030f1bb0)
 
 ![image](https://github.com/anmolkumarfromspn/Road-Accident-Analysis---PowerBI/assets/128449996/f42a08dc-bba9-4f92-86cc-ffb2457894c4)
 
-Columns: 
+### Columns: 
 
 ![image](https://github.com/anmolkumarfromspn/Road-Accident-Analysis---PowerBI/assets/128449996/dc919644-0028-4c8e-a648-57ad36e28797)
+
+## Data Cleaning
+
+Corrections in some values by using replace function: -
+![image](https://github.com/anmolkumarfromspn/Road-Accident-Analysis---PowerBI/assets/128449996/e32ce0e7-cf12-4828-a35f-9f4f5aac92fc)
+
+## Data Preprocessing
+
+Creating a calender table: -
+![image](https://github.com/anmolkumarfromspn/Road-Accident-Analysis---PowerBI/assets/128449996/b0e9aeec-fbe5-404c-a18e-3296da73f0db)
+
+## Data Modeling
+
+![image](https://github.com/anmolkumarfromspn/Road-Accident-Analysis---PowerBI/assets/128449996/c8d151b8-49f5-4b94-adc9-f2c532b2ae78)
 
 ## Dashboard Overview
 
@@ -25,6 +40,14 @@ Desktop View
 ## Mobile App Dashboard OverView
 
 ![image](https://github.com/anmolkumarfromspn/Road-Accident-Analysis---PowerBI/assets/128449996/4d47cb86-008a-4618-b731-7e398d2a02a6)
+
+## Insights
+
+1. The number of accidents on Sundays and Wednesdays is fewer than those on other days in any postcode.
+2. Null Hypothesis Testing Results:
+![image](https://github.com/anmolkumarfromspn/Road-Accident-Analysis---PowerBI/assets/128449996/8e6e3899-62a2-4b24-aa7f-1bf6da9a74bc)
+3. Age groups 11-15 years, 26-35 years and 36-45 years have the similar number of accident records and the major day of accidents for these age groups is Saturday.
+4. Warrington(WA) and Guildford(GU) have more accidents on Tuesdays and the most common age group of people causing accidents is 46 to 55 years.
 
 ## Tools used
 
@@ -55,6 +78,7 @@ Desktop View
 ## Future Scope
 
 The future scope of the UK Road Accident Analysis Power BI dashboard project holds significant potential for expansion and enhancement. Firstly, the project can incorporate real-time data feeds to provide up-to-the-minute accident information, enabling immediate response and interventions. Additionally, predictive analytics and machine learning algorithms can be integrated to forecast accident-prone areas and suggest proactive safety measures. Furthermore, the dashboard can be extended to include socio-economic factors and demographic data to gain deeper insights into the root causes of accidents, facilitating more targeted policy interventions. Collaboration with other European countries for comparative analysis and the development of a cross-border accident analysis system is another exciting possibility. Overall, the project's future scope involves continuous refinement, automation, and broadening its utility to make UK roads safer and more resilient. 
+
 Some most common areas where this project can be helpful are:-
 
 1. Ministry of Transport
@@ -73,7 +97,7 @@ Writing optimized complex DAX queries to simplify  and create simple curated tab
 
 ## Key Learnings
 
-The UK Road Accident Analysis Power BI project taught us that data-driven decision-making is powerful. It showed how historical accident data can shape road safety policies. Data visualization is crucial for understanding complex information, and a holistic approach to accident analysis is necessary, considering factors like weather, road conditions, vehicle types, and human behavior. Scalability is key, and interdisciplinary collaboration is essential for effective communication. Overall, the project's most important lesson is its potential to enhance public safety by reducing road accidents and saving lives through evidence-based decision-making.
+The UK Road Accident Analysis Power BI project taught me that data-driven decision-making is powerful. It showed how historical accident data can shape road safety policies. Data visualization is crucial for understanding complex information, and a holistic approach to accident analysis is necessary, considering factors like weather, road conditions, vehicle types, and human behavior. Scalability is key, and interdisciplinary collaboration is essential for effective communication. Overall, the project's most important lesson is its potential to enhance public safety by reducing road accidents and saving lives through evidence-based decision-making.
 
 ## Conclusion
 
