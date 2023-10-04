@@ -19,7 +19,10 @@ The dataset is taken from Kaggle and it contains the details of every recorded a
 
 ### Columns: 
 
-![image](https://github.com/anmolkumarfromspn/Road-Accident-Analysis---PowerBI/assets/128449996/dc919644-0028-4c8e-a648-57ad36e28797)
+Below are the columns which are present in the dataset and description of every column is mentioned in front of its name.
+
+![image](https://github.com/anmolkumarfromspn/Road-Accident-Analysis---PowerBI/assets/128449996/bcba1f73-80a2-48e7-ba80-68d31e562cf6)
+
 
 ## Data Cleaning
 
