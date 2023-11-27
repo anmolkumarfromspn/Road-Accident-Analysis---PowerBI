@@ -117,6 +117,7 @@ The UK Road Accident Analysis Power BI project taught me that data-driven decisi
 In conclusion, the UK Road Accident Analysis Power BI dashboard project has been a journey of data-driven discovery and insight. Through meticulous analysis and visualization, we've gained a deeper understanding of road accidents in the United Kingdom, identifying key trends and factors contributing to these incidents. The project's success underscores the importance of harnessing data to inform policy decisions and drive road safety improvements. As we look to the future, the project's potential for expansion and enhancement is clear, with opportunities for real-time data integration, predictive analytics, and cross-border collaboration. Ultimately, this project serves as a valuable tool in the ongoing effort to make UK roads safer and more resilient, with the ultimate goal of reducing accidents and safeguarding lives.
 
 -----------------------------------------------------------------------------------------------------
+*Project Access: https://drive.google.com/drive/folders/1cRoWeCv6sTF3LmK4ucJeEvlUi1X50S0f?usp=sharing*
 
 *Contact Mail: aktwenty5@gmail.com*
 
